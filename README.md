@@ -29,17 +29,16 @@
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
 
-![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=yizhou-liu93&count_private=true&show_icons=true&theme=radical)
+
+###  Recent Github Activity
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com//yizhou-liu93/crwn-clothing/pull/9) in [yizhou-liu93/crwn-clothing](https://github.com//yizhou-liu93/crwn-clothing)
@@ -48,3 +47,4 @@
 4. 💪 Opened PR [#8](https://github.com//yizhou-liu93/crwn-clothing/pull/8) in [yizhou-liu93/crwn-clothing](https://github.com//yizhou-liu93/crwn-clothing)
 5. 🎉 Merged PR [#7](https://github.com//yizhou-liu93/crwn-clothing/pull/7) in [yizhou-liu93/crwn-clothing](https://github.com//yizhou-liu93/crwn-clothing)
 <!--END_SECTION:activity-->
+![Lewis's github stats](https://github-readme-stats.vercel.app/api?username=yizhou-liu93&count_private=true&show_icons=true&theme=radical)
