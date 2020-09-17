@@ -9,7 +9,7 @@
 <p>- 🔭 I’m currently working on TypeScript and React Native</p>
 <p>- 🌱 I’m currently learning everything 🤣</p>
 <p>- 👯 I’m looking to collaborate with other content creators</p>
-<p>- 🥅 2020 Goals: Land a good job and get a Tesla Model Y🚗</p>
+<p>- 🥅 2020 Goals: Land a job at a great company and be a Tesla owner🚗</p>
 <p>- ⚡ Fun fact: I love flying, scuba diving and road trips.</p>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
