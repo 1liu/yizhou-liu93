@@ -6,11 +6,11 @@
 
 ## I'm a Husband, Developer, and Soilder!
 
-<p>- 🔭 I’m currently working on TypeScript</p>
+<p>- 🔭 I’m currently working on TypeScript and React Native</p>
 <p>- 🌱 I’m currently learning everything 🤣</p>
 <p>- 👯 I’m looking to collaborate with other content creators</p>
 <p>- 🥅 2020 Goals: Land a good job and get a Tesla Model Y🚗</p>
-<p>- ⚡ Fun fact: I love to flying, scuba diving and riding.</p>
+<p>- ⚡ Fun fact: I love flying, scuba diving and road trips.</p>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
