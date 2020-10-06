@@ -4,7 +4,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/liuy23)
 
 
-## I'm a Husband, Developer, and Soilder!
+## I'm a Husband, Developer, and Soldier!
 
 <p>- 🔭 I’m currently working on TypeScript and React Native</p>
 <p>- 🌱 I’m currently learning everything 🤣</p>
